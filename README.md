@@ -1,90 +1,56 @@
 
 <h1 align="center">Hi, I'm Natnael Solomon 👋</h1>
 
-<h3 align="center">
-  Full Stack Developer | Backend Engineer | AI-Powered Applications
-</h3>
+<h3 align="center">Full Stack Developer | Backend Engineer | AI Enthusiast</h3>
 
 <p align="center">
-  I build scalable web applications, robust backend systems,
+  <a href="https://github.com/Nati1-2">GitHub</a> •
+  <a href="https://ecommerce-bdt8-woad.vercel.app/">Portfolio Project</a>
+</p>
+
+<p align="center">
+  Building scalable applications, modern web experiences,
   and AI-powered software solutions.
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### Languages & Frontend
 
-- Full Stack Developer focused on modern web technologies.
-- Interested in scalable backend systems and software architecture.
-- Building practical applications with React, Next.js, TypeScript, and Node.js.
-- Exploring AI integration and intelligent automation.
-- Continuously improving my software engineering and system design skills.
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+</p>
 
-### 🛠️ Technical Skills
+### Backend
 
-**Frontend**
-- JavaScript, TypeScript
-- React.js, Next.js
-- HTML5, CSS3, Tailwind CSS
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi" />
+</p>
 
-**Backend**
-- Node.js, Express.js
-- Python, FastAPI
-- REST APIs, WebSockets
+### AI / ML
 
-**Databases**
-- MongoDB, PostgreSQL
-- Redis
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-AI-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20API%20Integration-000000?style=for-the-badge" />
+</p>
 
-**Tools & Technologies**
-- Git, GitHub
-- Docker
-- RabbitMQ
-- CI/CD
-- Playwright
+### Database & Infrastructure
 
-### 🚀 Featured Projects
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,docker,aws,git,github" />
+</p>
 
-**1. Ecommerce Platform**
-- Full-stack e-commerce application.
-- Backend services, database integration, and payment workflows.
-- Technologies: Next.js, TypeScript, Node.js, MongoDB.
-- [Source Code](https://github.com/Nati1-2/Ecommerce)
-- [Live Demo](https://ecommerce-bdt8-woad.vercel.app/)
+### Featured Projects
 
-**2. LinkPulse – URL Shortener SaaS**
-- URL shortening and link analytics platform.
-- [Source Code](https://github.com/Nati1-2/URL-Shortener-project-)
-- [Live Demo](https://url-shortener-one-beryl-19.vercel.app/)
-
-**3. AI Applicant Tracking System**
-- AI-powered recruitment and candidate screening application.
-- [Source Code](https://github.com/Nati1-2/ATS-)
-
-**4. Relay – AI Chat Application**
-- Real-time messaging and AI-powered conversational application.
-- [Source Code](https://github.com/Nati1-2/AIchatbotandchatapp)
-
-**5. Stellar Vaults**
-- Blockchain application using Stellar technologies.
-- [Source Code](https://github.com/Nati1-2/stellar-vaults-app)
-
----
-
-### 🎯 Current Focus
-
-- Advanced Backend Development
-- System Design and Scalable Architecture
-- Cloud Computing and DevOps
-- AI Integration and Automation
-- Software Testing and Security
-
-### 🤝 Let's Connect
-
-- GitHub: [@Nati1-2](https://github.com/Nati1-2)
+- [Ecommerce Platform](https://github.com/Nati1-2/Ecommerce)
+- [LinkPulse URL Shortener](https://github.com/Nati1-2/URL-Shortener-project-)
+- [AI Applicant Tracking System](https://github.com/Nati1-2/ATS-)
+- [Relay AI Chat](https://github.com/Nati1-2/AIchatbotandchatapp)
 
 ---
 
 <p align="center">
-  <i>Building, learning, and improving one project at a time.</i>
+  <i>Open to learning, building, and solving real-world problems.</i>
 </p>
